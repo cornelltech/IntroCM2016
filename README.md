@@ -28,27 +28,27 @@ This is the week-by-week plan:
 | Week | Date | Title | Theory | Tech | Special | Guests |
 |:-----|:-----|:------|:----------|:------|:--------|:-------|
 |0 | 1/28|Intro to Everything | | | | |
-|1 | 2/2|1-1 Communication Systems | Network Effects |  | | |
+|1 | 2/2|1-1 Communication Systems | Network Effects, Presence |  | | |
 | | 2/4| |  | O-Auth  | | |
-|2 | 2/9| Groupware | Presence |  |  | |
+|2 | 2/9| Groupware |  |  |  | |
 | | 2/11|  |  |  |  | |
-|3 | 2/18| Communities and Forums | | |   |
+|3 | 2/18| Communities and Forums | Reputation | |   |
 |4 | 2/23| Collaborative Systems | Motivation | |   |
 | | 2/25|  | | Connective Media APIs | | Nir | 
-|5 | 3/1|  Social Awareness Streams| Identity/Reputation Systems |  |  |  |
+|5 | 3/1|  Social Awareness Streams| Identity/ Systems |  |  |  |
 | | 3/3|  | |  |  |  |
 |6 | 3/8| Anoymous Systems | Anonymity |  |  |  |
 | | 3/10|  |  |  |  |   |
 |7 | 3/15| Crowdsourcing |  |  |  |   |
 | | 3/17|  |  | Crowdsourcing APIs |  | |  
-|8 | 3/22| Social News |  |  |  |   |
+|8 | 3/22| Social News | Filter Bubble |  |  |   |
 | | 3/24|  |  |  |  |   |
 | Spring Break |
-|9 | 4/5| Media sharing | |  |  Measurements and Metrics | |
+|9 | 4/5| Media sharing | Feedback |  |  Measurements and Metrics | |
 | | 4/7|  |  |  | Copyright and content rights |  |
 |10 | 4/12| Entertainment |  | iPyhton  | Nir |  
 | | 4/14|  |  |  | Recommender Systems  |  |  
-|11 | 4/19| Online to offline |  |   |  |  
+|11 | 4/19| Online to offline | Trust |   |  |  
 | | 4/21|  |  |  |  |  |
 |12 | 4/26| Sharing econonmy  |  |  |  |   |
 | | 4/28|  |   |  |  Monetization |  |
