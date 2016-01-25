@@ -4,9 +4,11 @@ INFO 5302<br/>
 Spring 2016<br/>
 Mor Naaman<br/>
 Location TBD<br/>
-Tuesday-Thursday, 1:00-2:15pm
+Tuesday-Thursday, 1:00-2:15pm<br/>
+Join the #introCM channel on the CM Slack
 
 \#introCM
+
 
 #### [Week-by-week deliverables and requirements]()
 
@@ -27,31 +29,31 @@ This is the week-by-week plan:
 |:-----|:-----|:------|:----------|:-----------|:-------|
 |0 | 1/28|Intro to Everything | | | |
 |1 | 2/2|1-1 Communication Systems | Network Effects |  | |
-|1 | 2/4| |  | O-Auth  | |
+| | 2/4| |  | O-Auth  | |
 |2 | 2/9| Groupware | Presence |  |  |
-|2 | 2/11|  |  |  |  |
+| | 2/11|  |  |  |  |
 |3 | 2/18| Communities and Forums | | |  
 |4 | 2/23| Collaborative Systems | Motivation | |  
-|4 | 2/25|  | | Connective Media APIs | Nir | 
+| | 2/25|  | | Connective Media APIs | Nir | 
 |5 | 3/1|  Social Awareness Streams| |  |  | 
-|5 | 3/3|  | |  |  | 
+| | 3/3|  | |  |  | 
 |6 | 3/8| Anoymous Systems | Anonymity |  |  |  
-|6 | 3/10|  |  |  |  |  
+| | 3/10|  |  |  |  |  
 |7 | 3/15| Crowdsourcing |  |  |  |  
-|7 | 3/17|  |  | Crowdsourcing APIs |  |  
+| | 3/17|  |  | Crowdsourcing APIs |  |  
 |8 | 3/22| Social News |  |  |  |  
-|8 | 3/24|  |  |  |  |  
+| | 3/24|  |  |  |  |  
 | Spring Break |
 |9 | 4/5| Media sharing |  |  |  |  
-|9 | 4/7|  |  |  |  |  
+| | 4/7|  |  |  |  |  
 |10 | 4/12| Entertainment |  | iPyhton  |  |  
-|10 | 4/14|  |  |  Recommender Systems in the Wild |  |  
+| | 4/14|  |  |  Recommender Systems in the Wild |  |  
 |11 | 4/19| Online to offline |  |   |  |  
-|11 | 4/21|  |  |  |  |  
+| | 4/21|  |  |  |  |  
 |12 | 4/26| Sharing econonmy  |  |  |  |  
-|12 | 4/28|  |  |  |  |  
+| | 4/28|  |  |  |  |  
 |13 | 5/3| Project presentations (1)  |  |  |  |  
-|13 | 5/5| Project presentations (2) |  |  |  |  
+| | 5/5| Project presentations (2) |  |  |  |  
 |14 | 5/10| No class |  |  |  |  
 
 
