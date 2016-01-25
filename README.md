@@ -23,36 +23,37 @@ At the completion of the course, students will become familiar with the various 
 
 This is the week-by-week plan:
 
-| Week/Date | Title | Deep Dive | Tech Dive  | Guests |
-|:----------|:------|:----------|:--------------|:----------|
-|0<br/>1/28|Intro to Everything | | | |
-|1<br/>2/2|1-1 Communication Systems | Network Effects |  | |
-|1<br/>2/4| |  | O-Auth  | |
-|2<br/>2/9| Groupware | Presence |  |  |
-|2<br/>2/11|  |  |  |  |
-|3<br/>2/18| Communities and Forums | | |  
-|4<br/>2/23| Collaborative Systems | Motivation | |  
-|4<br/>2/25|  | | Connective Media APIs | Nir | 
-|5<br/>3/1|  Social Awareness Streams| |  |  | 
-|5<br/>3/3|  | |  |  | 
-|6<br/>3/8| Anoymous Systems | Anonymity |  |  |  
-|6<br/>3/10|  |  |  |  |  
-|7<br/>3/15| Crowdsourcing |  |  |  |  
-|7<br/>3/17|  |  | Crowdsourcing APIs |  |  
-|8<br/>3/22| Social News |  |  |  |  
-|8<br/>3/24|  |  |  |  |  
+| Week | Date | Title | Deep Dive | Tech Dive  | Guests |
+|:-----|:-----|:------|:----------|:-----------|:-------|
+|0 | 1/28|Intro to Everything | | | |
+|1 | 2/2|1-1 Communication Systems | Network Effects |  | |
+|1 | 2/4| |  | O-Auth  | |
+|2 | 2/9| Groupware | Presence |  |  |
+|2 | 2/11|  |  |  |  |
+|3 | 2/18| Communities and Forums | | |  
+|4 | 2/23| Collaborative Systems | Motivation | |  
+|4 | 2/25|  | | Connective Media APIs | Nir | 
+|5 | 3/1|  Social Awareness Streams| |  |  | 
+|5 | 3/3|  | |  |  | 
+|6 | 3/8| Anoymous Systems | Anonymity |  |  |  
+|6 | 3/10|  |  |  |  |  
+|7 | 3/15| Crowdsourcing |  |  |  |  
+|7 | 3/17|  |  | Crowdsourcing APIs |  |  
+|8 | 3/22| Social News |  |  |  |  
+|8 | 3/24|  |  |  |  |  
 | Spring Break |
-|9<br/>4/5| Media sharing |  |  |  |  
-|9<br/>4/7|  |  |  |  |  
-|10<br/>4/12| Entertainment |  | iPyhton  |  |  
-|10<br/>4/14|  |  |  Recommender Systems in the Wild |  |  
-|11<br/>4/19| Online to offline |  |   |  |  
-|11<br/>4/21|  |  |  |  |  
-|12<br/>4/26| Sharing econonmy  |  |  |  |  
-|12<br/>4/28|  |  |  |  |  
-|13<br/>5/3| Project presentations (1)  |  |  |  |  
-|13<br/>5/5| Project presentations (2) |  |  |  |  
-|14<br/>5/10| No class |  |  |  |  
+|9 | 4/5| Media sharing |  |  |  |  
+|9 | 4/7|  |  |  |  |  
+|10 | 4/12| Entertainment |  | iPyhton  |  |  
+|10 | 4/14|  |  |  Recommender Systems in the Wild |  |  
+|11 | 4/19| Online to offline |  |   |  |  
+|11 | 4/21|  |  |  |  |  
+|12 | 4/26| Sharing econonmy  |  |  |  |  
+|12 | 4/28|  |  |  |  |  
+|13 | 5/3| Project presentations (1)  |  |  |  |  
+|13 | 5/5| Project presentations (2) |  |  |  |  
+|14 | 5/10| No class |  |  |  |  
+
 
 
 ## Class Requirements
