@@ -44,9 +44,9 @@ This is the week-by-week plan:
 |8 | 3/22| Social News |  |  |  |   |
 | | 3/24|  |  |  |  |   |
 | Spring Break |
-|9 | 4/5| Media sharing | |  |  | Measurements and Metrics | |
+|9 | 4/5| Media sharing | |  |  Measurements and Metrics | |
 | | 4/7|  |  |  | Copyright and content rights |  |
-|10 | 4/12| Entertainment |  | iPyhton  |  |  
+|10 | 4/12| Entertainment |  | iPyhton  | Nir |  
 | | 4/14|  |  |  | Recommender Systems  |  |  
 |11 | 4/19| Online to offline |  |   |  |  
 | | 4/21|  |  |  |  |  |
