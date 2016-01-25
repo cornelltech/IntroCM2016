@@ -46,7 +46,7 @@ This is the week-by-week plan:
 | Spring Break |
 |9 | 4/5| Media sharing | Feedback |  |  Measurements and Metrics | |
 | | 4/7|  |  |  | Copyright and content rights |  |
-|10 | 4/12| Entertainment |  | iPyhton  | Nir |  
+|10 | 4/12| Entertainment |  | iPyhton  | | Nir |  
 | | 4/14|  |  |  | Recommender Systems  |  |  
 |11 | 4/19| Online to offline | Trust |   |  |  
 | | 4/21|  |  |  |  |  |
