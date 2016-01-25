@@ -74,7 +74,7 @@ Each student will participate in one group class presentation about a specific s
 
 ### Attendance
 
-You may miss up to one class without notice, but no more than two absences are acceptable, even with excuse. In any case, please do let me know if you happen to miss a class session, either in advance or retroactively.  
+You may miss up to one class without prior notice, but no more than two absences are acceptable, even with excuse. In any case, please do let me know if you happen to miss a class session, either in advance or retroactively.  
 
 ### Participation
 
@@ -94,17 +94,16 @@ Your grade breakdown (G for Group grade):
 30% Design assignment (G)
 20% Data Analysis assignment (G)
 
-Note: the average grade in this class is likely to be a B or B+. You will need to really stand out to get an A. 
+Note: the average grade in this class is likely to be a B or B+. You will need to really stand out to get an A- or above. 
 
 M.Eng and MBA students may take the class for a pass-fail grade with prior approval. All the requirements for class would still stand. To get a passing grade, a student would need a C and above grade for each of the class components. 
 
 ## Key Threads
 
-- **Design** - key elements in CM product design.
+- **Theory** - Key ideas from social computing that are relevant to CM.
 - **Product/Biz** - Key product aspects that drive the CM business.
 - **Technology** - Key technologies that are used in CM systems.
-- **Theory** - Key ideas from social computing that are relevant to CM.
-
+- **Design** - key elements in CM product design.
 
 ## Class Presentations
 
@@ -117,7 +116,7 @@ The basic presentations should be 15 minutes long, strictly enforced, but the pr
 -   The main design decisions made by the different applications/services
 -   How these decisions impact the service in different ways, including: types of usage, nature of content, retention, patterns of consumption etc.
 
-The presenters will use examples and screenshots from the services they compare, and for extra credit, identify and discuss additional scholarly articles that are related to the service types. These articles could be a) describing a related theory, or b) studying and providing insights about the services or other related platforms and systems. I will be available to provide some pointers and directions as needed; you will need to approach me by Sunday before your presentation, at the latest, to get help.
+The presenters will use examples and screenshots from the services they compare, and *must* identify and discuss additional scholarly articles that are related to the service types. These articles could be a) describing a related theory, or b) studying and providing insights about the services or other related platforms and systems. The teaching team will be available to provide some pointers and directions as needed; you will need to approach them by Sunday before your presentation, at the latest, to get help.
 
 The presentation and discussion after may also refer to past/future trends for this category. What's next for these types of services? Bonus points for original ways to lead or encourage discussion and participation! 
 
@@ -126,7 +125,7 @@ Your presentation grade will be based on the quality and clarity of your present
 ## The teaching team
 
 ### Mor Naaman
-Instructor, Associate Professor, and Ice Breaker<br/>
+Instructor, Associate Professor, and Furniture Mover<br/>
 mor -AT- jacobs.cornell.edu<br/>
 @informor
 
@@ -134,7 +133,7 @@ Where to find him: anywhere on campus<br/>
 When to find him: email to schedule time to chat
 
 ### Nir Grinberg
-Teaching Assistant, PhD Student, and Fire Starter<br/>
+Teaching Assistant, PhD Student, and Master Sleeper<br/>
 nir -AT- cs.cornell.edu<br/>
 @grinbergnir
 
