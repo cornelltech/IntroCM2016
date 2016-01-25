@@ -1,48 +1,60 @@
 # Introduction to Connective Media 
 
 INFO 5302<br/>
-Spring 2015<br/>
-Prof. Mor Naaman<br/>
-Touchdown (3rd floor, Cornell Tech)<br/>
-Thursdays, noon-2:45pm
+Spring 2016<br/>
+Mor Naaman<br/>
+Location TBD<br/>
+Tuesday-Thursday, 1:00-2:15pm
 
 \#introCM
 
-#### [Week-by-week deliverables and requirements](https://github.com/cornelltech/intro-to-connective-media/wiki/Schedule-for-Deliverables)
+#### [Week-by-week deliverables and requirements]()
 
 ## What is this Course?
-Connective Media is the study of the artifacts, technologies, processes and ecosystems that are involved in the recent convergence of communication, information, and media. Connective Media is changing the way that we behave as a society: the way we act, the way we get information, the way we diffuse information, the way we shape our views and our culture. To innovate and excel in this landscape, students need skills and knowledge from technology, the social sciences, business, and design. 
-
-This course will cover the socio-technical, design and product background that is paramount to operating in the connective media landscape.
+Connective Media is the study of the artifacts, technologies, processes and ecosystems that are involved in the recent convergence of communication, information, and media. Connective Media is changing the way that we behave as a society: the way we act, the way we get information, the way we diffuse information, the way we shape our views and our culture. To innovate and excel in this landscape, students need skills and knowledge from technology, the social sciences, business, and design. This course will cover the socio-technical background that is paramount to operating in the connective media landscape.
 
 ## Class Objectives
 
-This course, the core course in the Connective Media Systems Technologies track, explores different types of connective media systems and technologies. The course provides an overview of core Connective Media systems, with an eye towards understanding the theory, design and product decisions that support those platforms. In addition, the course provides an understanding of key operational aspects of Connective Media environments, such as measurement and monetization. Finally, the course introduces students to key technologies that are used in Connective Media systems. The course core components will address different types of Connective Media systems, from 1-1 communication tools to large-scale media, using multiple disciplinary perspectives to analyze these platforms. 
+This course, the core course in the "Connective Media Technologies" track, explores different types of connective media systems and technologies. The course provides an overview of core Connective Media systems, with an eye towards understanding the theory, design and product decisions that support those platforms. In addition, the course provides an understanding of key operational aspects of Connective Media environments, such as measurement and monetization. Finally, the course introduces students to key technologies that are used in Connective Media systems. The course core components will address different types of Connective Media systems, from 1-1 communication tools to large-scale media, using multiple disciplinary perspectives to analyze these platforms. 
 
 At the completion of the course, students will become familiar with the various factors that are in play in designing and building Connective Media services in various contexts; recognize key factors in conducting academic research on Connective Media services; understand important features of Connective Media, design and prototype new Connective Media applications, analyze Connective Media datasets, and understand the research issues in this field. 
 
-## Week-by-week
+## Course plan
 
 This is the week-by-week plan:
 
-| Week/Date | Title | Deep Dive | Special Topic / Tech Dive  | Services |
+| Week/Date | Title | Deep Dive | Tech Dive  | Guests |
 |:----------|:------|:----------|:--------------|:----------|
-|1<br/>1/22|Intro to Everything [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%201%20overview%20and%20oauth.pdf?api=v2)||O-Auth ||
-|2<br/>1/29|1-1 Communication Systems [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%202%201-1%20communications.pdf?api=v2)|Presence; Network Effects| Messaging Protocols<br/><br/> |Skype, Snapchat, Facebook Messenger, Words with Friends|
-|3<br/>2/5|Groupware [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%203%20groups.pdf?api=v2)|||Slack, What'sApp, Hipchat, Trello|
-|4<br/>2/12|Communities and Forums [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%204%20communities.pdf?api=v2)||Community Design|[Patients Like Me](http://www.patientslikeme.com/), [Facebook Rooms](http://www.rooms.me/), [Mac Rumors forums](http://forums.macrumors.com/), [Reddit Books](http://www.reddit.com/r/books/) |
-|5<br/>2/19|Social Awareness Streams [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%205%20SAS.pdf?api=v2)|Identity and Reputation|Social APIs |Twitter, Facebook, Pinterest, LinkedIn, Tumblr|
-|6<br/>2/26|(Social) News [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%206%20social%20news%20short.pdf?api=v2)||Content Strategy<br/>Special guests: Michael Young (CTO) and Justin Van Slembrouck (Design Director), Digg |[Reddit](http://reddit.com), [BuzzFeed](http://buzzfeed.com), [Digg](http://digg.com), [NY Times](http://nytimes.com), [Medium](http://medium.com), [Circa](http://cir.ca/)|
-|7<br/>3/5|Anonymous Networks [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%207%20anoymous.pdf?api=v2)|Anonymity|Special guest: YikYak co-founder Brooks Buffington, live from Georgia Tech!|Secret, YikYak, 4chan|
-|8<br/>3/12|Collaborative Platforms [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%208%20wikipedia%20and%20others.pdf?api=v2)|Social roles and contributions| Measurement and metrics. Special guest: [Glen Kushner](https://www.linkedin.com/in/glenkushner) |Wikipedia, Github, Stack Exchange, Scratch|
-|9<br/>3/19|Crowdsourcing Systems [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%209%20crowdsourcing.pdf?api=v2)|Amazon Mechanical Turk|Data Analysis in iPython |TaskRabbit, Amazon Mechanical Turk, oDesk, Zooniverse.org|
-|10<br/>3/26|Photo/Video Sharing [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%2010%20photo%20video%20sharing.pdf?api=v2)|Feedback|IP, Copyright and Content Rights<br/>Special guest: Ayman Shamma of Yahoo! Labs and Flickr|Instagram, Flickr, 500px, YouTube, Vimeo|
-|11<br/>4/9|Broadcast and Entertainment [(slides)](https://confluence.cornell.edu/download/attachments/302745741/class%2011%20entertainment%20rec%20systems%20distribution.pdf?api=v2)|Recommender Systems|Distribution|Netflix, Hulu, AOL On, Yahoo Screen|
-|12<br/>4/16|Online/offline and Neighborhood Tech| | |NextDoor, [Ingress](http://ingress.com), iNeighbors, Swarm|
-|13<br/>4/23|Sharing Economy\*|Privacy| Special guest: Helen Nissenbaum (NYU) |  Lyft, AirBnB, [Puddle](https://www.puddle.com/), [NeighborGoods](http://neighborgoods.net/) |
-|14<br/>4/30|Project Presentations| | Monetization | |
+|0<br/>1/28|Intro to Everything | | | |
+|1<br/>2/2|1-1 Communication Systems | Network Effects |  | |
+|1<br/>2/4| |  | O-Auth  | |
+|2<br/>2/9| Groupware | Presence |  |  |
+|2<br/>2/11|  |  |  |  |
+|3<br/>2/18| Communities and Forums | | |  
+|4<br/>2/23| Collaborative Systems | Motivation | |  
+|4<br/>2/25|  | | Connective Media APIs | Nir | 
+|5<br/>3/1|  Social Awareness Streams| |  |  | 
+|5<br/>3/3|  | |  |  | 
+|6<br/>3/8| Anoymous Systems | Anonymity |  |  |  
+|6<br/>3/10|  |  |  |  |  
+|7<br/>3/15| Crowdsourcing |  |  |  |  
+|7<br/>3/17|  |  | Crowdsourcing APIs |  |  
+|8<br/>3/22| Social News |  |  |  |  
+|8<br/>3/24|  |  |  |  |  
+| Spring Break |
+|9<br/>4/5| Media sharing |  |  |  |  
+|9<br/>4/7|  |  |  |  |  
+|10<br/>4/12| Entertainment |  | iPyhton  |  |  
+|10<br/>4/14|  |  |  Recommender Systems in the Wild |  |  
+|11<br/>4/19| Online to offline |  |   |  |  
+|11<br/>4/21|  |  |  |  |  
+|12<br/>4/26| Sharing econonmy  |  |  |  |  
+|12<br/>4/28|  |  |  |  |  
+|13<br/>5/3| Project presentations (1)  |  |  |  |  
+|13<br/>5/5| Project presentations (2) |  |  |  |  
+|14<br/>5/10| No class |  |  |  |  
 
-\* subject to change based on class input
+
 ## Class Requirements
 
 ### Readings
