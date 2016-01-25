@@ -35,7 +35,7 @@ This is the week-by-week plan:
 |3 | 2/18| Communities and Forums | | |  
 |4 | 2/23| Collaborative Systems | Motivation | |  
 | | 2/25|  | | Connective Media APIs | Nir | 
-|5 | 3/1|  Social Awareness Streams| |  |  | 
+|5 | 3/1|  Social Awareness Streams| Identity/Reputation Systems |  |  | 
 | | 3/3|  | |  |  | 
 |6 | 3/8| Anoymous Systems | Anonymity |  |  |  
 | | 3/10|  |  |  |  |  
@@ -44,14 +44,14 @@ This is the week-by-week plan:
 |8 | 3/22| Social News |  |  |  |  
 | | 3/24|  |  |  |  |  
 | Spring Break |
-|9 | 4/5| Media sharing |  |  |  |  
-| | 4/7|  |  |  |  |  
+|9 | 4/5| Media sharing | Measurements and Metrics |  |  |  
+| | 4/7|  | Copyright and content rights |  |  |  
 |10 | 4/12| Entertainment |  | iPyhton  |  |  
 | | 4/14|  |  |  Recommender Systems in the Wild |  |  
 |11 | 4/19| Online to offline |  |   |  |  
 | | 4/21|  |  |  |  |  
 |12 | 4/26| Sharing econonmy  |  |  |  |  
-| | 4/28|  |  |  |  |  
+| | 4/28|  |  | Monetization |  |  
 |13 | 5/3| Project presentations (1)  |  |  |  |  
 | | 5/5| Project presentations (2) |  |  |  |  
 |14 | 5/10| No class |  |  |  |  
