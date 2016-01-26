@@ -42,9 +42,9 @@ This is the week-by-week plan:
 |7 | 3/15| Crowdsourcing |  |  |  |   |
 | | 3/17|  |  | Crowdsourcing APIs |  | |  
 |8 | 3/22| Social News | Filter Bubble |  |  |   |
-| | 3/24|  |  |  |  |   |
+| | 3/24|  |  |  |  Measurements and Metrics |   |
 | Spring Break |
-|9 | 4/5| Media sharing | Feedback |  |  Measurements and Metrics | |
+|9 | 4/5| Media sharing | Feedback |  |   | Leland Rechis (Cornell Tech, YouNow) |
 | | 4/7|  |  |  | Copyright and content rights |  |
 |10 | 4/12| Entertainment |  | iPyhton  | | Nir |  
 | | 4/14|  |  |  | Recommender Systems  |  |  
