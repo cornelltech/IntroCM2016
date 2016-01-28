@@ -1,10 +1,8 @@
 # Introduction to Connective Media 
 
-INFO 5302<br/>
-Spring 2016<br/>
+INFO 5302, Spring 2016<br/>
 Mor Naaman<br/>
-Location TBD<br/>
-Tuesday-Thursday, 1:00-2:15pm<br/>
+Tuesday-Thursday, 1:00-2:15pm, Touchdown<br/>
 Join the #introCM channel on the CM Slack
 
 \#introCM
