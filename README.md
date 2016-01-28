@@ -119,7 +119,7 @@ The presenters will use examples and screenshots from the services they compare,
 
 The presentation and discussion after may also refer to past/future trends for this category. What's next for these types of services? Bonus points for original ways to lead or encourage discussion and participation! 
 
-Your presentation grade will be based on the quality and clarity of your presentation and the discussion.
+Your presentation grade will be based on the quality and clarity of your presentation and the discussion. While the presentations are done in groups, each presentation should be 100% coherent and consistent. In other words, presentations that are clearly based on "split work" where each partner is respobsible for her/his own part are unacceptable. Work together to create a flowing, coherent and meaningful presentation!
 
 ## The teaching team
 
