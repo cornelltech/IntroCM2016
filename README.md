@@ -19,6 +19,13 @@ This course, the core course in the "Connective Media Technologies" track, explo
 
 At the completion of the course, students will become familiar with the various factors that are in play in designing and building Connective Media services in various contexts; recognize key factors in conducting academic research on Connective Media services; understand important features of Connective Media, design and prototype new Connective Media applications, analyze Connective Media datasets, and understand the research issues in this field. 
 
+### Key Threads
+
+- **Theory** - Key ideas from social computing that are relevant to CM.
+- **Product/Biz** - Key product aspects that drive the CM business.
+- **Technology** - Key technologies that are used in CM systems.
+- **Design** - key elements in CM product design.
+
 ## Course plan
 
 This is the week-by-week plan:
@@ -57,19 +64,17 @@ This is the week-by-week plan:
 
 ## Class Requirements
 
-### Readings
+### Readings and Services
+Each week (see schedule below) you will be asked to sign up, use, and analyze a small set of services that correspond to the week’s topic. You have to sign up and use these services. You will be asked to consider these services in the online reading response.
 
-The reading materials, mostly papers from the field of social computing, are listed below in the week-to-week schedule. All the readings are required, and you will be asked submit an online response to the reading every week before class. You may be asked, for example, to reason about each reading, provide critique and extensions, and comment about its significance in the context of connective media technology. Grades are assigned per reading. Your lowest two reading reflection grades will not be counted; these two lowest grades may include submissions that you missed (no questions asked). Late submissions will be treated as missing. 
+The reading materials, mostly papers from the field of social computing, are listed below in the week-to-week schedule. All the readings are required, and you will be asked submit an online response to the reading (and services) every week before class. You may be asked, for example, to reason about each reading, provide critique and extensions, and comment about its significance in the context of connective media technology. Grades are assigned per reading. Your lowest reading reflection grade will not be counted; this grade may include submissions that you missed (no questions asked). Late submissions will be treated as missing. 
 
-### Services
-
-Each week (see schedule below) you will be asked to sign up, use, and analyze a small set of services that correspond to the week’s topic. You will be asked to submit an online response every week to a question about these services. Grades are assigned per week. Your lowest two grades will not be counted; these two lowest grades may include submissions that you missed (no questions asked). Late submissions will be treated as missing.
 
 ### Assignments
 
 There are three technical assignments (group projects) to be submitted throughout the semester: a social data explorer; connective media design; and data analysis. The details of the assignments are provided separately. 
 
-### Presentation
+### Presentations
 Each student will participate in one group class presentation about a specific set of Connective Media technologies. Each presentation will summarize the key theoretical, design and product differences between the systems and services in a specific group of technologies. Exact instructions and guidelines [are below](#presreq). 
 
 ### Attendance
@@ -91,26 +96,20 @@ Your grade breakdown (G for Group grade):
 15% Reading and service responses
 10% Participation
 10% Social Explorer assignment (G)
-30% Design assignment (G)
-20% Data Analysis assignment (G)
+20% Design assignment (G)
+30% Data Analysis assignment (G)
 
 Note: the average grade in this class is likely to be a B or B+. You will need to really stand out to get an A- or above. 
 
 M.Eng and MBA students may take the class for a pass-fail grade with prior approval. All the requirements for class would still stand. To get a passing grade, a student would need a C and above grade for each of the class components. 
 
-## Key Threads
-
-- **Theory** - Key ideas from social computing that are relevant to CM.
-- **Product/Biz** - Key product aspects that drive the CM business.
-- **Technology** - Key technologies that are used in CM systems.
-- **Design** - key elements in CM product design.
 
 ## Class Presentations
 
 <a name="presreq">
 ### Requirements and procedures </a>
 
-Class presentations will be assigned by the instructor, based on student preferences. 
+Class presentations will be assigned by the instructor. 
 
 The basic presentations should be 15 minutes long, strictly enforced, but the presenters should lead an additional 10-15 minutes of discussion. The initial presentation should briefly touch on:
 -   The main design decisions made by the different applications/services
