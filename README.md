@@ -55,7 +55,7 @@ This is the week-by-week plan:
 | | 4/14|  |  |  | Recommender Systems  |  |  
 |11 | 4/19| Online to offline | Trust |   |  |  
 | | 4/21|  |  |  |  |  |
-|12 | 4/26| Sharing econonmy  |  |  |  |   |
+|12 | 4/26| Sharing econonmy  |  |  |  |  Judd Antin (Airbnb) |
 | | 4/28|  |   |  |  Monetization |  |
 |13 | 5/3| Project presentations (1)  |  |  |  |  | 
 | | 5/5| Project presentations (2) |  |  |  |  |
