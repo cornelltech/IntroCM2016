@@ -43,7 +43,7 @@ This is the week-by-week plan:
 |5 | 3/1|  Social Awareness Streams| Identity/ Systems |  |  |  |
 | | 3/3|  | |  |  |  |
 |6 | 3/8| Anoymous Systems | Anonymity |  |  |  |
-| | 3/10|  |  |  |  |   |
+| | 3/10|  |  |  |  | Xiao |
 |7 | 3/15| Crowdsourcing |  |  |  |   |
 | | 3/17|  |  | Crowdsourcing APIs |  | |  
 |8 | 3/22| Social News |  |  | Measurements and Metrics |  Kale Smith (Nielsen) |
