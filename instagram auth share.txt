@@ -1,13 +1,20 @@
-Implicit Flow
+## Implicit Flow
+
+# Get access
 https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=token
 
-Authorization Flow
+# then get resources:
+https://api.instagram.com/v1/users/self/?access_token==<TOKEN YOU JUST GOT>  
+# (Basic details)
 
-https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=code
+https://api.instagram.com/v1/users/self/follows?access_token=<TOKEN YOU JUST GOT>
+# (user's follows -- did it work?)
 
-https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=code
-&scope=basic
+# Get MOAR access
+https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=token&scope=follower_list
+# Now try the follows again. 
 
+## Authorization Flow
 https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=code
 &scope=likes+comments
 
@@ -17,16 +24,14 @@ curl -k \-F 'client_id=<YOUR CLIENT ID>' \
     -F 'redirect_uri=http://tech.cornell.edu' \
     -F 'code=<CODE YOU JUST GOT>' \https://api.instagram.com/oauth/access_token
 
-
-OR (Implicit Flow)
-https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=token
-
 then 
 curl -k https://api.instagram.com/v1/users/self/feed?access_token=<TOKEN YOU JUST GOT>
 or
 curl -k https://api.instagram.com/v1/users/self/feed?access_token=<TOKEN YOU JUST GOT> > my_feed.txt
 
-Other types of data:
-Media search (photos near Cornell Tech)
+## Other types of data:
+# Media search (photos near Cornell Tech)
 curl -k "https://api.instagram.com/v1/media/search?lat=40.741&lng=-74.002&access_token=<TOKEN YOU GOT>"
 
+## Register app at https://instagram.com/developer/
+# To find your client ID: https://instagram.com/developer/clients/manage/
