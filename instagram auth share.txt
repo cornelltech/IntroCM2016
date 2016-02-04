@@ -4,7 +4,7 @@
 https://api.instagram.com/oauth/authorize/?client_id=<YOUR CLIENT ID>&redirect_uri=http://tech.cornell.edu&response_type=token
 
 # then get resources:
-https://api.instagram.com/v1/users/self/?access_token==<TOKEN YOU JUST GOT>  
+https://api.instagram.com/v1/users/self/?access_token=<TOKEN YOU JUST GOT>  
 # (Basic details)
 
 https://api.instagram.com/v1/users/self/follows?access_token=<TOKEN YOU JUST GOT>
