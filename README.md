@@ -35,7 +35,7 @@ This is the week-by-week plan:
 |0 | 1/28|Intro to Everything | | | | |
 |1 | 2/2|1-1 Communication Systems | Network Effects, Presence |  | | |
 | | 2/4| |  | O-Auth  | | Leila Takayama (X) |
-|2 | 2/9| Groupware |  |  |  | |
+|2 | 2/9| Groupware |  |  |  | Alan Yesley ([read](http://yworlds.com/2016/01/18/the-communicating-complexity-project-primer-1/))|
 | | 2/11|  |  |  |  | |
 |3 | 2/18| Communities and Forums | Reputation | |   |
 |4 | 2/23| Collaborative Systems | Motivation | |   |
