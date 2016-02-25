@@ -42,7 +42,7 @@ for e in ___10.get_events():
 
 ###########################
 # Instagram
-1. Go to https://www.instagram.com/developer create app, uncheck implicit premission
+1. Go to https://www.instagram.com/developer create app, uncheck implicit permission
 2. Browse to https://api.instagram.com/oauth/authorize/?client_id=<CLIENT_ID>&redirect_uri=http://localhost&response_type=token&scope=basic+likes+comments+follower_list+public_content
 3. Check access: 
 curl https://api.instagram.com/v1/users/self/?access_token=INSTAGRAM_TOKEN
