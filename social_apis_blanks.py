@@ -49,7 +49,7 @@ curl https://api.instagram.com/v1/users/self/?access_token=INSTAGRAM_TOKEN
 Alternatively, get token from https://apigee.com/embed/console/instagram
 4. Browse to docs: https://github.com/Instagram/python-instagram and https://www.instagram.com/developer/endpoints/
 
-# apigee
+from instagram.client import InstagramAPI
 api = InstagramAPI(access_token="INSTAGRAM_TOKEN")
 
 # get user info
