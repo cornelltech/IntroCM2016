@@ -40,8 +40,8 @@ This is the week-by-week plan:
 |3 | 2/18| Communities and Forums | Reputation | |   |
 |4 | 2/23| Collaborative Systems | Motivation | |   |
 | | 2/25|  | | Connective Media APIs | | Nir | 
-|5 | 3/1|  Social Awareness Streams| Identity/ Systems |  |  |  |
-| | 3/3|  | |  |  |  |
+|5 | 3/1|  Social Awareness Streams| |  |  |  |
+| | 3/3|  | |  Identity/ Systems |  |  |
 |6 | 3/8| Anoymous Systems | Anonymity |  |  |  |
 | | 3/10|  |  |  |  | Xiao |
 |7 | 3/15| Crowdsourcing |  |  |  |   |
