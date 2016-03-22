@@ -46,7 +46,7 @@ This is the week-by-week plan:
 | | 3/10|  |  |  |  | Xiao |
 |7 | 3/15| Crowdsourcing |  |  |  |   |
 | | 3/17|  |  | Crowdsourcing APIs |  | |  
-|8 | 3/22| Social News |  |  | Measurements and Metrics |  Kale Smith (Nielsen) |
+|8 | 3/22| Social News |  |  | Measurements and Metrics | Dan Robbins & Kale Smith (Nielsen) |
 | | 3/24|  |  | The Filter Bubble |   |  Justin Van Slembrouck & Michael Young (Digg) |
 | Spring Break |
 |9 | 4/5| Media sharing | Feedback |  |   | Leland Rechis (Cornell Tech, YouNow) |
